@@ -2,7 +2,7 @@ class Person
   
   attr_accessor :name, :birthday, :hair_color
   
-  def initialize
+  def initialize(name:, birthday:, hair_color:)
     
   end 
   
